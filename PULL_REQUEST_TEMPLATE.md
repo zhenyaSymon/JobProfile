@@ -1,7 +1,7 @@
 # Rank your profile  with Hactoberfest PR 
 
 
- | Name | Profile | Skills | Degree Holds | PR | Rank|
+ | Name | Profile | Skills | Degree | PR | Rank|
  |:--------|:--------:|:------------:|:------------:|:------------:|:------------:|
- | [xyz]() | Software Engineer | Java, Android, Data Structure, Algorithms | B.Tech | 10 | 1st |
+ | [your name]( github link) | your profile | your skills | your degree | no. of pr merged | give rank,compare to current readme |
  
