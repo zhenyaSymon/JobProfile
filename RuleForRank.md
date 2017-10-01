@@ -1,3 +1,3 @@
-# rules for ranking 
+# Rules for Ranking 
 
-- Ranking according how many PR merged with Hactoberfest lebel and also mendatory atleast 10 star repo.
+- Ranking according, How many PR merged with Hactoberfest lebel and also mendatory at least 10 star on repo.
