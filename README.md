@@ -1,9 +1,9 @@
-# Discribe your Job profile 
+# Rank your profile  with Hactoberfest PR 
 
 
- | Profile | Skills | pay |
- |:--------|:--------:|:------------:|
- | Software Engineer | | |
+ | Name | Profile | Skills | Degree Holds | Rank|
+ |:--------|:--------:|:------------:|:------------:|:------------:|
+ | [xyz]() | Software Engineer | Java, Android, Data Structure, Algorithms | B.Tech | 1st |
  
  
  
