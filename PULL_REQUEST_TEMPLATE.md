@@ -14,5 +14,5 @@ In order to help us evaluate PRs better, we ask you to have a look at the follow
 
  | Name | Profile | Skills | Degree | PR | Rank|
  |:--------|:--------:|:------------:|:------------:|:------------:|:------------:|
- | [your name]( github link) | your profile | your skills | your degree | no. of merged PR| give rank,compare to current readme |
+ | [Symon Zhenya](https://github.com/zhenyaSymon/) | zhenyaSymon | java,apex,Salesforce | master |2| 3 |
  
