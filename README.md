@@ -11,6 +11,7 @@
  | Name | Profile | Skills | Degree Holds | PR | Rank|
  |:--------|:--------:|:------------:|:------------:|:------------:|:------------:|
  | [xyz]() | Software Engineer | Java, Android, Data Structure, Algorithms | B.Tech | 10 | 1st |
+ | [Symon Zhenya] | Software Engineer | java,apex,Salesforce | master |4| 3 |
  
  
  ### Do not forgot to give a Star     
